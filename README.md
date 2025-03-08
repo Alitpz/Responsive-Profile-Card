@@ -18,13 +18,6 @@ This profile card was created using HTML and CSS to display personal information
 - HTML5
 - CSS3
 
-## Files
-
-- `index.html` - Main HTML file
-- `style.css` - Design styles
-- `ProfilPhoto.png` - Sample profile photo used in the profile card
-- `ProfilePhoto .jpeg` - Alternative profile photo
-
 ## Installation and Usage
 
 1. Download the project to your computer
@@ -34,6 +27,3 @@ This profile card was created using HTML and CSS to display personal information
 
 See the `ProfilPhoto.png` file for an example of the profile card.
 
-## License
-
-This project is shared as open source.
