@@ -1,39 +1,39 @@
 # Responsive Profile Card
 
-Bu proje, farklı ekran boyutlarına uyum sağlayabilen modern bir profil kartı uygulamasıdır.
+This project is a modern profile card application that can adapt to different screen sizes.
 
-## Proje Hakkında
+## About the Project
 
-Bu profil kartı, kişisel bilgileri ve profil fotoğrafını şık bir tasarımla göstermek için HTML ve CSS kullanılarak oluşturulmuştur. Responsive tasarım sayesinde tüm cihazlarda düzgün görüntülenir.
+This profile card was created using HTML and CSS to display personal information and profile photos with an elegant design. Thanks to its responsive design, it displays properly on all devices.
 
-## Özellikler
+## Features
 
-- Responsive tasarım
-- Modern görünüm
-- Profil fotoğrafı gösterimi
-- Kullanıcı bilgileri gösterimi
+- Responsive design
+- Modern appearance
+- Profile photo display
+- User information display
 
-## Kullanılan Teknolojiler
+## Technologies Used
 
 - HTML5
 - CSS3
 
-## Dosyalar
+## Files
 
-- `index.html` - Ana HTML dosyası
-- `style.css` - Tasarım stilleri
-- `ProfilPhoto.png` - Profil kartında kullanılan örnek profil fotoğrafı
-- `ProfilePhoto .jpeg` - Alternatif profil fotoğrafı
+- `index.html` - Main HTML file
+- `style.css` - Design styles
+- `ProfilPhoto.png` - Sample profile photo used in the profile card
+- `ProfilePhoto .jpeg` - Alternative profile photo
 
-## Kurulum ve Kullanım
+## Installation and Usage
 
-1. Projeyi bilgisayarınıza indirin
-2. `index.html` dosyasını herhangi bir tarayıcıda açın
+1. Download the project to your computer
+2. Open the `index.html` file in any browser
 
-## Ekran Görüntüleri
+## Screenshots
 
-Profil kartı örneği için `ProfilPhoto.png` dosyasına bakabilirsiniz.
+See the `ProfilPhoto.png` file for an example of the profile card.
 
-## Lisans
+## License
 
-Bu proje açık kaynak olarak paylaşılmıştır.
+This project is shared as open source.
