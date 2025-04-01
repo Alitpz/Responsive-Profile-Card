@@ -18,11 +18,6 @@ This profile card was created using HTML and CSS to display personal information
 - HTML5
 - CSS3
 
-## Installation and Usage
-
-1. Download the project to your computer
-2. Open the `index.html` file in any browser
-
 ## Screenshots
 
 See the `ProfilPhoto.png` file for an example of the profile card.
